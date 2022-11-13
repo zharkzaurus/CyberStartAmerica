@@ -6,6 +6,10 @@ in this task is to locate a secret gmail because the actual one isnt the real on
 and easiest way to do it is by highlighting the whole document and find hidden sentences in the document
 
 
+```
+cat /etc/shahjf hjgf jhf iuygt iuygkugkjhgk hgkj gkj gkjgh kjhg uyg iug ggjhkghgggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhjjjjjjjjjjjjj g kjg jhg jg jh jhg
+```
+
 ## room 2/4
 
 
