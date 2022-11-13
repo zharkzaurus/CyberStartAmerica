@@ -2,13 +2,11 @@
 ## room 1/4 
 
 
+
 in this task is to locate a secret gmail because the actual one isnt the real one in and while making web pages you can make hidden word and the best
 and easiest way to do it is by highlighting the whole document and find hidden sentences in the document
 
 
-```
-cat /etc/shahjf hjgf jhf iuygt iuygkugkjhgk hgkj gkj gkjgh kjhg uyg iug ggjhkghgggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhjjjjjjjjjjjjj g kjg jhg jg jh jhg
-```
 
 ## room 2/4
 
@@ -25,7 +23,6 @@ from bottom and top
 
 in this task it asks you to find the password of someone named daydream and sometimes people use common day things that is easy to remember for them and 
 that makes it easier for us to find out their password
-
 
 
 
